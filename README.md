@@ -1,6 +1,10 @@
 ## run app
 npx expo start
 
+# npm 
+
+run npm install because node.modules file was too large
+
 # Safe Area
 
 ## Safe Areas
